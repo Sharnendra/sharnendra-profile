@@ -865,19 +865,19 @@ textarea.form-control {
 }
 
 .b1 {
-    animation: anil1 30s infinite;
+    animation: anil1 50s infinite;
 }
 .b2 {
-    animation: anil2 30s infinite;
+    animation: anil2 50s infinite;
 }
 .b3 {
-    animation: anil3 30s infinite;
+    animation: anil3 50s infinite;
 }
 .b4 {
-    animation: anil4 30s infinite;
+    animation: anil4 50s infinite;
 }
 .b5 {
-    animation: anil5 30s infinite;
+    animation: anil5 50s infinite;
 }
 
 @keyframes anil1 {
