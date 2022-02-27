@@ -830,18 +830,19 @@ textarea.form-control {
   height: 50px;
   text-align: center;
   line-height: 50px;
-  background-color: #fff;
+  background-color: #1e1e1e;
   color: #1e1e1e;
   border-radius: 50%;
   font-size: 16px;
   font-weight: 700;
+  color: #FFFFFF;
   left: 0;
   top: -21px;
   position: absolute;
   z-index: 999;
 }
 .skills-row h6 {
-  font-size: 16px;
+  font-size: 14px;
   text-transform: uppercase;
   font-weight: 700;
   color: #fff;
@@ -858,20 +859,43 @@ textarea.form-control {
 .filled-bar {
   position: absolute;
   z-index: 99;
-  width: 64%;
+  width: 70%;
   height: 6px;
-  background-color: #fff;
+  background-color: #1e1e1e;
   border-radius: 3px;
 }
 .filled-bar-2 {
   position: absolute;
   z-index: 99;
-  width: 82%;
+  width: 90%;
   height: 6px;
-  background-color: #fff;
+  background-color: #1e1e1e;
   border-radius: 3px;
 }
-
+.filled-bar-3 {
+  position: absolute;
+  z-index: 99;
+  width: 95%;
+  height: 6px;
+  background-color: #1e1e1e;
+  border-radius: 3px;
+}
+.filled-bar-4 {
+  position: absolute;
+  z-index: 99;
+  width: 85%;
+  height: 6px;
+  background-color: #1e1e1e;
+  border-radius: 3px;
+}
+.filled-bar-5 {
+  position: absolute;
+  z-index: 99;
+  width: 72%;
+  height: 6px;
+  background-color: #1e1e1e;
+  border-radius: 3px;
+}
 .box {
     font-style: 35px;
     font-weight: bold;
@@ -882,19 +906,19 @@ textarea.form-control {
 }
 
 .b1 {
-    animation: anil1 50s infinite;
+    animation: anil1 40s infinite;
 }
 .b2 {
-    animation: anil2 50s infinite;
+    animation: anil2 40s infinite;
 }
 .b3 {
-    animation: anil3 50s infinite;
+    animation: anil3 40s infinite;
 }
 .b4 {
-    animation: anil4 50s infinite;
+    animation: anil4 40s infinite;
 }
 .b5 {
-    animation: anil5 50s infinite;
+    animation: anil5 40s infinite;
 }
 
 @keyframes anil1 {
@@ -919,15 +943,6 @@ textarea.form-control {
     40%{
         opacity: 0;
     }
-}
-
-
-
-.fh5co-content-inner {
-  padding: 7em 2em 5em 2em;
-  float: left;
-  width: 100%;
-  position: relative;
 }
 
 @keyframes anil3 {
