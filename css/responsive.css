@@ -53,6 +53,9 @@
 		font-size:30px;
 		margin: 0 auto;
 	}
+	span.service-icon {
+        color: #5FDFF2;
+    }
 	.service-box {
 		padding:30px 20px;
 	}
@@ -121,7 +124,7 @@
 	  display:inline-block;
 	  line-height:30px;
 	  text-align:center;
-	  background: rgba(255, 255, 255, 0.1);
+	  background: #5FDFF2;
 	  color: rgba(255,255,255,1);
 	  font-size:14px;
 	}
@@ -255,6 +258,7 @@
 	.navbar-nav {
 		overflow-y: auto;
 		display:block;
+		text-color: #5FDFF2;
 		background: rgba(230, 230, 230, 0.25);
 	}
 	.navbar-nav li a:after {
